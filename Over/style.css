@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    margin: 0px 420px;
+}
+.header {
+    background-image: url(bg.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerline {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.navitem {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14;
+    
+    margin-right: 29px;
+}
+.fon{
+   
+}
